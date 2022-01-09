@@ -84,3 +84,4 @@ typings/
 
 # FuseBox cache
 .fusebox/
+local.code-workspace
